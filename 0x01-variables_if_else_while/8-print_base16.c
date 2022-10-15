@@ -7,8 +7,8 @@ int main(void)
 {
 int num;
 char hx;
-hx = 'a'
-num = 0
+hx = 'a';
+num = 0;
 while
 (num < 10)
 {
