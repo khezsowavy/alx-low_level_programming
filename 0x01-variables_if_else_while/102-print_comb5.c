@@ -27,8 +27,11 @@ if (c != 89)
 putchar(',');
 putchar(' ');
 }
-if (b_a < f_d) and (d_a < l_d)
+if (b_a < f_d)
 {
+putchar(' ');
+}
+if (d_a < l_d)
 putchar(' ');
 }
 c++;
