@@ -7,10 +7,16 @@ int main(void)
 {
 int num;
 char hx;
-for (num = 0; num < 10; num++)
-putchar((num % 10) + '0');
-(hx = 'a');
-(hx <= 'f');
+hx = 'a'
+num = 0
+while
+(num < 10)
+{
+putchar(num + '0');
+num++;
+}
+while
+(hx <= 'f')
 {
 putchar(hx);
 hx++;
