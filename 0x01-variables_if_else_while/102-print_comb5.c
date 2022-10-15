@@ -10,8 +10,8 @@ int main(void)
 int c = 0;
 int f_d;
 int l_d;
-int d_a
-int b_a
+int d_a;
+int b_a;
 while (c <= 99)
 {
 f_d = (c / 10 + '0');
@@ -29,7 +29,7 @@ putchar(' ');
 }
 if (b_a < f_d) and (d_a < l_d)
 {
-putchar(' ')
+putchar(' ');
 }
 c++;
 }
