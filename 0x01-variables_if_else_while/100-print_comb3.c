@@ -6,9 +6,9 @@
 int main(void)
 {
 int n;
-for (n = 01; n <= 99; n++)
+for (n = 01; n <= 99; n++);
 {
-putchar(n)
+putchar(n);
 if (n != 98)
 {
 putchar(',');
@@ -16,7 +16,6 @@ putchar(' ');
 }
 if (n = 10)
 }
-for (
 putchar('\n');
 return (0);
 }
