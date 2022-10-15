@@ -9,7 +9,7 @@ int num;
 char hx;
 for (num = 0; num < 10; num++)
 putchar((num % 10) + '0');
-for (hx = 'a');
+hx = 'a';
 hx <= 'f';
 {
 putchar(hx);
