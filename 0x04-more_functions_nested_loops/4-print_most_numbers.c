@@ -6,8 +6,13 @@
 void print_most_numbers(void)
 {
 	char c;
+<<<<<<< HEAD
 
+=======
+	
+>>>>>>> ba720e5ad837631677ed9287446cb3dca364e14f
 	for (c = '0'; c <= '9'; c++)
+		
 	{
 		if (!(c == '2' || c == '4'))
 			_putchar(c);
