@@ -1,1 +1,1 @@
-C pointers, arrays and strinfs
+C pointers, arrays and strings
