@@ -5,11 +5,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/**
- * struct op - struct op
- * @op: operator
- * @f: The function associated
- */
 typedef struct op
 {
 	char *op;
